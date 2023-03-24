@@ -1,0 +1,145 @@
+.wallpaper{
+    background-image: url(./css-background-image-linear-gradient.webp);background-repeat: no-repeat; background-size: cover; background-position: center;
+}
+
+.table{
+margin-left: 85px;
+margin-top: 50px;
+}
+
+.main{
+    width: 900px;
+    height: 80px;
+    background-color: #CD853F;
+    margin-left: 120px;
+    border-radius: 7px;
+}
+
+.air{
+    padding-left: 10px;
+    display: inline-block;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: medium;
+    color: #fffaf0;
+    padding-left: 30px;
+    padding-top: 30px;
+    
+}
+
+.dep{
+    display: inline-block;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: medium;
+    padding-left: 130px;
+    color: #fffaf0;
+}
+
+.arri{
+    display: inline-block;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: medium;
+    padding-left: 130px;
+    color: #fffaf0;
+}
+
+.dur{
+    display: inline-block;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: medium;
+    padding-left: 139px;
+    color: #fffaf0;
+}
+
+.pric{
+    display: inline-block;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: medium;
+    padding-left: 130px;
+    color: #fffaf0;
+}
+
+.main1{
+    background-color: #F0FFFF;
+    width: 900px;
+    height: 80px;
+    margin-top: 10px;
+    margin-left: 120px;
+    border-radius: 7px;
+}
+
+.imagetop{
+    display: inline-block;
+}
+
+.image{
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.name{
+    display: inline-block;
+    margin-left: 145px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+#nameunder{
+    font-size: 12px;
+    font-family: serif;
+    font-weight: 300;
+    padding-left: 3px;
+}
+
+.duration{
+    display: inline-block;
+    margin-left: 130px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+#durationunder{
+    font-size: 15px;
+    font-family: serif;
+    font-weight: 300;
+    position: relative;
+
+    padding-left: 13px;
+
+}
+
+.arrive{
+    display: inline-block;
+    margin-left: 120px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+#arriveunder{
+    font-size: 15px;
+    font-family: serif;
+    font-weight: 300;
+    padding-left: 8px;
+}
+
+.price{
+    display: inline-block;
+    margin-left: 140px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+#button{
+    background-image: linear-gradient(90deg,#2cd9ff,#7effb2);
+    color: #090909;
+    border: #fffaf0;
+    border-radius: 3px;
+    cursor: pointer;
+    width: 70px;
+    height: 30px;
+}
