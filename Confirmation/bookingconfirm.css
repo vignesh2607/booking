@@ -1,0 +1,261 @@
+.table1{
+    height: 70px;
+    width: 1350px;
+    */border: 1px solid black;
+}
+
+#ticklogo{
+    display: inline-block;
+    width: 50px;
+    height: 40px;
+    border-radius: 50%;
+    background-image: url(./greentick.png);background-repeat: no-repeat; background-size: cover; background-position: center;
+    margin-left: 1030px;
+    margin-top: 20px;
+}
+
+#bookingname{
+    display: inline-block;
+    font-size: 25px;
+    margin-left: 20px;
+    margin-left: 5px;
+}
+
+#bchead{
+    font-size: 30px;
+    margin-left: 20px;
+    color: rgb(36, 36, 155);
+}
+
+#bcheadunder{
+    font-size: 18px;
+    padding-top: 45px;
+    margin-left: 20px;
+    font-weight: 545;
+}
+
+#email{
+    font-size: 18px;
+    padding-top: 45px;
+    font-weight: 545;
+    margin-left: 20px;
+}
+
+.id{
+    display: inline-block;
+    margin-top: 35px;
+    margin-left: 20px;
+    font-size: 18px;
+    color: gray;
+}
+
+#num{
+    color: blue;
+    text-decoration: underline;
+}
+
+.bookingdetails{
+    margin-top: 20px;
+    margin-left: 20px;
+    font-weight: 600;
+}
+
+.cg{
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-weight: 500;
+}
+
+.time{
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 60px;
+    font-weight: 500;
+}
+
+#cgunder{
+    color: gray;
+}
+
+#timeunder{
+    color: gray;
+}
+
+.travellers{
+    margin-top: 20px;
+    margin-left: 20px;
+    color: rgb(8, 8, 8);
+    font-weight: 600;
+}
+
+#line{
+    width: 800px;
+    margin-left: 20px;
+    color: black;
+}
+
+.name{
+    margin-left: 20px;
+    color: gray;
+    font-family: serif;
+}
+
+.fa-solidfa-user{
+    margin-top: 10px;
+}
+
+#name1{
+    margin-left: 5px;
+}
+
+#fa1{
+    margin-top: 10px;
+}
+
+#name2{
+    margin-left: 8px;
+}
+
+#seat1{
+    margin-left: 100px;
+}
+
+#seat11{
+    color: black;
+    margin-left: 10px;
+}
+
+#seat12{
+    color: black;
+    margin-left: 175px;
+}
+
+.ticketdetails{
+    margin-top: 20px;
+    margin-left: 20px;
+    color: rgb(8, 8, 8);
+    font-weight: 600;
+}
+
+.details{
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+#n1{
+    color: gray;
+}
+
+#n1n{
+    color: gray;
+    margin-left: 140px;
+}
+
+#n2{
+    color: gray;
+}
+
+#n2n{
+    margin-top: 10px;
+    color: gray;
+    margin-left: 140px;
+}
+
+#n3{
+    color: gray;
+}
+
+#n3n{
+    color: gray;
+    margin-left: 140px;
+}
+
+#sendemail{
+    background-image: linear-gradient(90deg,#2cd9ff,#7effb2);
+    color: #090909;
+    border: #fffaf0;
+    border-radius: 3px;
+    cursor: pointer;
+    height: 30px;
+    width: 90px;
+    margin-left: 18px;
+    margin-top: 30px;
+}
+
+#ferabreakup{
+    margin-left: 845px;
+}
+
+#basefare{
+    margin-left: 650px;
+}
+
+#basefare1{
+    margin-left: 60px;
+}
+
+#udf{
+    margin-left: 650px;
+}
+
+#udf1{
+    margin-left: 60px;
+}
+
+#othercharges{
+    margin-left: 820px;
+    color: gray;
+    font-weight: 100;
+}
+
+#othercharges1{
+    margin-left: 60px;
+    color: gray;
+    font-weight: 100;
+}
+
+#gst{
+    margin-left: 685px;
+    color: gray;
+}
+
+#gst1{
+    margin-left: 60px;
+    color: gray;
+}
+
+#totalfare{
+    margin-left: 660px;
+    color: gray;
+}
+
+#totalfare1{
+    margin-left: 60px;
+    color: gray;
+}
+
+#rs1{
+    margin-left: 110px;
+    color: gray;
+}
+
+#rs2{
+    margin-left: 30px;
+}
+
+#rs3{
+    margin-left: 80px;
+    color: gray;
+    font-weight: 100;
+}
+
+#rs4{
+    margin-left: 70px;
+    color: gray;
+}
+
+#rs5{
+    margin-left: 100px;
+    color: gray;
+}
