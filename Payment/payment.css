@@ -1,0 +1,111 @@
+#wallpaper{
+    background-color: #171A3D
+}
+.container{
+    height: 600px;
+    width: 700px;
+    *//border: 1px solid red;
+    margin-left: 270px;
+}
+#topic{
+    font-weight: 300;
+    padding-left: 230px;
+    padding-top: 40px;
+    color: #18C2C0
+}
+.innercontainer{
+    height: 250px;
+    width: 380px;
+    border: 1px solid  #292C58;
+    margin-left: 190px;
+    margin-top: 90px;
+    border-radius: 10px;
+    background-color: #292C58;
+}
+#sort{
+    height: 20px;
+    width: 50px;
+    border: 1px solid  #292C58;
+    display: inline-block;
+    margin-left: 120px;
+    margin-top: 20px;
+    border-radius: 5px;
+    background-image: url(./paypal);background-repeat: no-repeat; background-size: cover; background-position: center;
+}
+#radio{
+    margin-left: 30px;  
+}
+#paypal{
+    color: aliceblue;
+    font-weight: 500;
+    font-size: large;
+    padding-left: 5px;
+}
+#sort1{
+    height: 20px;
+    width: 50px;
+    border: 1px solid  #292C58;
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 35px;
+    border-radius: 5px;
+    background-image: url(./Mastercard-Logo.wine.png);background-repeat: no-repeat; background-size: cover; background-position: center;
+}
+
+#card{
+    color: aliceblue;
+    font-weight: 500;
+    font-size: large;
+    padding-left: 5px;
+}
+#radio1{
+    margin-left: 30px;  
+}
+#sort2{
+    height: 20px;
+    width: 50px;
+    border: 1px solid  #292C58;
+    display: inline-block;
+    border-radius: 8px;
+    background-image: url(./Visa-Logo-design-Vector-Download-300x190.png);background-repeat: no-repeat; background-size: cover; background-position: center;
+}
+#radio2{
+    margin-left: 30px;  
+}
+#upi{
+    color: aliceblue;
+    font-weight: 500;
+    font-size: large;
+    padding-left: 5px;
+}
+#sort3{
+    height: 20px;
+    width: 50px;
+    border: 1px solid  #292C58;
+    display: inline-block;
+    margin-left: 150px;
+    margin-top: 35px;
+    border-radius: 5px;
+    background-image: url(./upi-payments.png);background-repeat: no-repeat; background-size: cover; background-position: center;
+}
+#radio3{
+    margin-left: 30px; 
+    margin-top: 35px; 
+}
+#netbanking{
+    color: aliceblue;
+    font-weight: 500;
+    font-size: large;
+    padding-left: 5px;
+}
+#cnfrm{
+    height: 25px;
+    width: 380px;
+    border: 1px solid  #18C2C0;
+    font-weight: 300;
+    color: white;
+    margin-left: 190px;
+    margin-top: 60px;
+    border-radius: 10px;
+    background-color: #18C2C0
+}
