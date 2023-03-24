@@ -1,0 +1,23 @@
+#wallpaper{
+    background-image: url(./bus\ gif.gif); background-repeat:no-repeat; background-attachment:fixed; background-size: cover; background-position: center;
+}
+.table{
+    margin-left: 370px;
+    margin-top: 70px;
+    border-radius: 10px;
+    
+}
+.search{
+    display: inline-block;
+    margin-left: 600px;
+    margin-top: 25px;
+}
+.reset{
+    display: inline-block;
+}
+#head{
+    margin-left: 550px;
+    margin-top: 50px;
+    font-size: x-large;
+    font-weight: 800;
+}

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bus-Search</title>
+    <link rel="stylesheet" href="./BusSearch.css">
+    <link rel="website icon" type="png" href="./png-transparent-creativity-logo-semicircle-creative-design-child-photography-creative-artwork.png">
+</head>
+<body id="wallpaper">
+    <p id="head">Search for Bus Tickets </p>
+    <table class="table" border="3px"> 
+        <thead>
+            <tr>
+                <th>FROM</th>
+                <th>TO</th>
+                <th>TIME</th>
+                <th>DATE</th>
+                <th>COACH</th>
+                <th>NO.PASSANGER</th>
+            </tr>
+        </thead>
+        <tbody>
+        <tr>
+                <td> 
+                    <select>
+                        <option value=" ">Select</option>
+                        <option value="chennai">chennai</option>
+                    </select>
+                </td>
+                <td>
+                    <select name="" id="busbook">
+                        <option>Select</option>
+                        <option value="Bangalore">Bangalore</option>
+                        <option value="Hydrabad">Hydrabad</option>
+                        <option value="goa">goa</option>
+                        <option value="kerala">kerala</option>
+                    </select>
+                </td>
+                <td> <input type="time"> </td>
+                <td> <input type="date"> </td>
+                <td> <select> <option>select</option> <option>AC</option> <option>NON AC</option><option>SLEEPER</option></select></td>
+                <td> <select> <option>select scrol down</option> <option>1</option> <option>2</option> <option>3</option> <option>4</option> <option>5</option> <option>6</option> <option>7</option> </select></td>
+        </tr>
+        </tbody>
+    </table>
+        <br>
+        <form>
+            <a href="./Bus Selection.html"><button class="search" type="text" style="color: blue" onclick="booking()">search</button></a>
+            <input class="reset" type="reset" style="color: blue;">
+        </form>
+</body>
+</html>
