@@ -1,0 +1,240 @@
+.wallpaper{
+    background-image: url(./css-background-image-linear-gradient.webp);background-repeat: no-repeat; background-size: cover; background-position: center;
+}
+
+.table{
+    margin-left: 85px;
+    margin-top: 50px;
+    }
+
+.main{
+    width: 900px;
+    height: 80px;
+    background-color: #CD853F;
+    margin-left: 120px;
+    border-radius: 7px;
+}
+
+.air{
+    padding-left: 10px;
+    display: inline-block;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: medium;
+    color: #fffaf0;
+    padding-left: 30px;
+    padding-top: 30px;
+    
+}
+
+.dep{
+    display: inline-block;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: medium;
+    padding-left: 130px;
+    color: #fffaf0;
+}
+
+.arri{
+    display: inline-block;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: medium;
+    padding-left: 130px;
+    color: #fffaf0;
+}
+
+.dur{
+    display: inline-block;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: medium;
+    padding-left: 139px;
+    color: #fffaf0;
+}
+
+.pric{
+    display: inline-block;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: medium;
+    padding-left: 130px;
+    color: #fffaf0;
+}
+
+.main1{
+    width: 900px;
+    height: 80px;
+    background-color: #F0FFFF;
+    margin-left: 120px;
+    border-radius: 7px;
+    margin-top: 15px;
+}
+
+.name{
+    display: inline-block;
+    margin-left: 30px;
+    margin-top: 25px;
+    font-weight: 600;
+}
+
+#nameunder{
+    font-size: 12px;
+    padding-left: 3px;
+}
+
+.depart{
+    display: inline-block;
+    margin-left: 130px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+.duration{
+    display: inline-block;
+    margin-left: 150px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+#durationunder{
+    padding-left: 14px;
+    font-size: 12px;
+}
+
+.arrive{
+    display: inline-block;
+    margin-left: 115px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+.price{
+    display: inline-block;
+    margin-left: 130px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+#button{
+    background-image: linear-gradient(90deg,#2cd9ff,#7effb2);
+    color: #090909;
+    border: #fffaf0;
+    border-radius: 3px;
+    cursor: pointer;
+    width: 70px;
+    height: 30px;
+}
+
+.name1{
+    display: inline-block;
+    margin-left: 30px;
+    margin-top: 25px;
+    font-weight: 600;
+}
+
+#nameunder1{
+    font-size: 12px;
+    padding-left: 3px;
+}
+
+.depart1{
+    display: inline-block;
+    margin-left: 105px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+.duration1{
+    display: inline-block;
+    margin-left: 150px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+#durationunder1{
+    padding-left: 14px;
+    font-size: 12px;
+}
+
+.arrive1{
+    display: inline-block;
+    margin-left: 115px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+.price1{
+    display: inline-block;
+    margin-left: 130px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+#button1{
+    background-image: linear-gradient(90deg,#2cd9ff,#7effb2);
+    color: #090909;
+    border: #fffaf0;
+    border-radius: 3px;
+    cursor: pointer;
+    width: 70px;
+    height: 30px;
+}
+
+.name2{
+    display: inline-block;
+    margin-left: 30px;
+    margin-top: 25px;
+    font-weight: 600;
+}
+
+#nameunder2{
+    font-size: 12px;
+    padding-left: 3px;
+}
+
+.depart2{
+    display: inline-block;
+    margin-left: 113px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+.duration2{
+    display: inline-block;
+    margin-left: 155px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+#durationunder2{
+    padding-left: 14px;
+    font-size: 12px;
+}
+
+.arrive2{
+    display: inline-block;
+    margin-left: 115px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+.price2{
+    display: inline-block;
+    margin-left: 125px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+#button2{
+    background-image: linear-gradient(90deg,#2cd9ff,#7effb2);
+    color: #090909;
+    border: #fffaf0;
+    border-radius: 3px;
+    cursor: pointer;
+    width: 70px;
+    height: 30px;
+}
+
+
