@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>signup page</title>
+    <link rel="stylesheet" href="./sighup.css">
+    <script src="./signup.js"></script>
+    <link rel="website icon" type="png" href="./png-transparent-creativity-logo-semicircle-creative-design-child-photography-creative-artwork.png">
+</head>
+<body id="wallpaper">
+    <div id="head">Sign-up to Create account</div>
+    <div id="tb">
+        <table>
+        <tbody>
+            <tr>
+                <td>FIRSTNAME</td>
+                <td><input placeholder="firstname"></td>
+                <td>LASTNAME</td>
+                <td><input placeholder="lastname"></td>
+            </tr>
+            <tr>
+                <td>USERNAME*</td>
+                <td><input placeholder="username"></td>
+            </tr>
+            <tr>
+                <td>PASSWORD*</td>
+                <td><input type="text" id="pass"></td>
+                <td>RE-ENTER PASSWORD</td>
+                <td> <input type="password"></td>
+            </tr>
+            <tr>
+                <td><label> D.O.B</label></td>
+                <td> <input type="date"> </td>
+            </tr>
+            <tr>
+                <td>EMAIL-ID</td>
+                <td> <input type="text" placeholder="email-id" name="myform"  method="post" action="#" onsubmit="return validateemail()";></td>
+                <td><input type="submit" value="verify" ></td>
+                <td> <label>PHONE-NUMBER</label></td>
+                <td> <input type="number" placeholder="phn.on" id="num" oninput="num_validation()"></td>
+            </tr>
+            <tr>
+                <td>GENDER</td>
+                <td>male<input type="radio" name="a">female<input type="radio" name="a"></td>
+                <td></td>
+                <td id="errorcol"> <p id="error"> </p></td>
+            </tr>
+            <tr>
+                <td><lable>ADDRESS</lable></td>  
+                <td><textarea name=" " id=" " cols="25" rows="4"></textarea></td>
+            </tr>
+        </tbody>
+    </table>
+    <div id="signup"><a href="./login.html"><button type="submit" >signup</button></a> <button>cancel</button></div>
+    </div>
+</body>
+</html>
